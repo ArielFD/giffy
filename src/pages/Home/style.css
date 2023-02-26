@@ -1,0 +1,30 @@
+.App-List{
+    list-style-type: none;
+    padding-left: 0%;
+}
+
+.App-Div{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.App-Div2{
+    text-align: start;
+}
+
+.App-tittle{
+   color: rgb(255, 255, 255);
+}
+
+.App-Form{
+    margin: 20px;
+}
+
+.App-Div3{
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+    
+}

@@ -1,0 +1,14 @@
+.Gif-link{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 300px;
+    color: #eee;
+    text-decoration: none;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+
+.Gif-link img{
+    object-fit: contain;
+}
