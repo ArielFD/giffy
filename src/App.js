@@ -7,6 +7,7 @@ import SearchResult from "./pages/SearchResult";
 import { Link, Route } from "wouter";
 import StaticContext from "./context/staticContext";
 import { GifsContextProvider } from "./context/gifsContext";
+import logo from './logo192.png'
 function App() {
   return (
     <StaticContext.Provider value={{ name: "ariel", suscribete: true }}>
@@ -16,7 +17,7 @@ function App() {
             <img
               className="App-logo"
               alt="Giffy log"
-              src="/public/logo512.png"
+              src={logo}
             />
           </Link>
           <GifsContextProvider>

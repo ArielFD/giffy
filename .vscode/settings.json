@@ -1,5 +1,17 @@
 {
     "cSpell.words": [
         "Gifs"
-    ]
+    ],
+    "json.schemas": [
+
+    ],
+    "editor.cursorBlinking": "expand",
+    "editor.linkedEditing": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": true,
+    "workbench.tree.enableStickyScroll": true,
+    "editor.stickyScroll.scrollWithEditor": true,
+    "notebook.stickyScroll.enabled": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.stickyScroll.enabled": true
 }
